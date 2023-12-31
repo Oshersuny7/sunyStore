@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "65855c7b8f6884f6ccb209e3"
+  },
+  "name": "Product2 Lenovo Comp2 Name Lorem ipsum dolor sit amet",
+  "description": "Product Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ipsa ducimus architecto explicabo id accusantium nihil exercitationem autem porro esse.",
+  "count": 5,
+  "price": 100,
+  "category": "Computers/Laptops/Lenovo",
+  "images": [
+    {
+      "path": "/images/games-category.png"
+    },
+    {
+      "path": "/images/monitors-category.png"
+    },
+    {
+      "path": "/images/tablets-category.png"
+    }
+  ],
+  "rating": 5,
+  "reviewsNumber": 5,
+  "reviews": [],
+  "attrs": [
+    {
+      "key": "color",
+      "value": "black"
+    },
+    {
+      "key": "RAM",
+      "value": "1 TB"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65855c7b8f6884f6ccb209e4"
+  },
+  "name": "Product3 Dell Comp Name Lorem ipsum dolor sit amet",
+  "description": "Product Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ipsa ducimus architecto explicabo id accusantium nihil exercitationem autem porro esse.",
+  "count": 5,
+  "price": 100,
+  "category": "Computers/Laptops/Dell",
+  "images": [
+    {
+      "path": "/images/games-category.png"
+    },
+    {
+      "path": "/images/monitors-category.png"
+    },
+    {
+      "path": "/images/tablets-category.png"
+    }
+  ],
+  "rating": 5,
+  "reviewsNumber": 5,
+  "reviews": [],
+  "attrs": [
+    {
+      "key": "color",
+      "value": "black"
+    },
+    {
+      "key": "RAM",
+      "value": "1 TB"
+    }
+  ],
+  "sales": 3,
+  "updatedAt": {
+    "$date": "2023-12-31T13:55:50.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65855c7b8f6884f6ccb209e7"
+  },
+  "name": "Product6 Tablet Name Lorem ipsum dolor sit amet",
+  "description": "Product Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ipsa ducimus architecto explicabo id accusantium nihil exercitationem autem porro esse.",
+  "count": 15,
+  "price": 300,
+  "category": "Tablets",
+  "images": [
+    {
+      "path": "/images/tablets-category.png"
+    },
+    {
+      "path": "/images/monitors-category.png"
+    },
+    {
+      "path": "/images/games-category.png"
+    }
+  ],
+  "rating": 4,
+  "reviewsNumber": 7,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65855c7b8f6884f6ccb209ec"
+  },
+  "name": "Product11 Monitor Name Lorem ipsum dolor sit amet",
+  "description": "Product Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ipsa ducimus architecto explicabo id accusantium nihil exercitationem autem porro esse.",
+  "count": 15,
+  "price": 300,
+  "category": "Monitors",
+  "images": [
+    {
+      "path": "/images/tablets-category.png"
+    },
+    {
+      "path": "/images/monitors-category.png"
+    },
+    {
+      "path": "/images/games-category.png"
+    }
+  ],
+  "rating": 4,
+  "reviewsNumber": 7,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65855c7b8f6884f6ccb209ed"
+  },
+  "name": "Product12 Monitor Name Lorem ipsum dolor sit amet",
+  "description": "Product Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ipsa ducimus architecto explicabo id accusantium nihil exercitationem autem porro esse.",
+  "count": 20,
+  "price": 400,
+  "category": "Monitors",
+  "images": [
+    {
+      "path": "/images/games-category.png"
+    },
+    {
+      "path": "/images/tablets-category.png"
+    },
+    {
+      "path": "/images/monitors-category.png"
+    }
+  ],
+  "rating": 4,
+  "reviewsNumber": 8,
+  "reviews": [],
+  "__v": 1,
+  "attrs": [],
+  "sales": 9,
+  "updatedAt": {
+    "$date": "2023-12-31T09:55:45.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65855c7b8f6884f6ccb209ee"
+  },
+  "name": "Product13 Monitor Name Lorem ipsum dolor sit amet",
+  "description": "Product Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ipsa ducimus architecto explicabo id accusantium nihil exercitationem autem porro esse.",
+  "count": 25,
+  "price": 500,
+  "category": "Monitors",
+  "images": [
+    {
+      "path": "/images/monitors-category.png"
+    },
+    {
+      "path": "/images/games-category.png"
+    },
+    {
+      "path": "/images/tablets-category.png"
+    }
+  ],
+  "rating": 3,
+  "reviewsNumber": 9,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "658a12914241bd0a3d17c599"
+  },
+  "reviews": [],
+  "attrs": [
+    {
+      "key": "color",
+      "value": "black",
+      "_id": {
+        "$oid": "658a1388e3cd31e59de3a586"
+      }
+    },
+    {
+      "key": "RAM",
+      "value": "5 TB",
+      "_id": {
+        "$oid": "658a1388e3cd31e59de3a587"
+      }
+    }
+  ],
+  "images": [],
+  "name": "APPle 1000",
+  "description": "great...",
+  "count": 23,
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-12-25T23:38:57.363Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T23:43:04.293Z"
+  },
+  "__v": 1
+}]

@@ -1,0 +1,164 @@
+[{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f0"
+  },
+  "name": "Computers",
+  "description": "Computers - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png",
+  "attrs": [
+    {
+      "key": "RAM",
+      "value": [
+        "1 TB",
+        "2 TB",
+        "4 TB"
+      ]
+    },
+    {
+      "key": "color",
+      "value": [
+        "blue",
+        "red",
+        "green",
+        "black"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f1"
+  },
+  "name": "Computers/Laptops",
+  "description": "Computers/Laptops - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f2"
+  },
+  "name": "Computers/Laptops/Lenovo",
+  "description": "Computers/Laptops/Lenovo - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f3"
+  },
+  "name": "Computers/Laptops/Dell",
+  "description": "Computers/Laptops/Dell - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f4"
+  },
+  "name": "Tablets",
+  "description": "Tablets - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f5"
+  },
+  "name": "Monitors",
+  "description": "Monitors - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/monitors-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f6"
+  },
+  "name": "Games",
+  "description": "Games - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/games-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f7"
+  },
+  "name": "Printers",
+  "description": "Printers - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f8"
+  },
+  "name": "Software",
+  "description": "Software - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/monitors-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209f9"
+  },
+  "name": "Cameras",
+  "description": "Cameras - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/games-category.png"
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209fa"
+  },
+  "name": "Books",
+  "description": "Books - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/tablets-category.png",
+  "attrs": [
+    {
+      "key": "genre",
+      "value": [
+        "movie",
+        "comedy",
+        "thriller"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6585904c8f6884f6ccb209fb"
+  },
+  "name": "Videos",
+  "description": "Videos - Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, magnam qui. Accusamus similique placeat at nisi autem eaque molestiae velit.",
+  "image": "/images/monitors-category.png"
+},
+{
+  "_id": {
+    "$oid": "6588a8c3ec0bc7a21f621787"
+  },
+  "name": "Electronics",
+  "description": "Electronic gadgets and devices",
+  "image": "/images/electronics.jpg",
+  "attrs": [
+    {
+      "key": "Color",
+      "value": [
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "_id": {
+        "$oid": "6588a8c3ec0bc7a21f621788"
+      }
+    },
+    {
+      "key": "Brand",
+      "value": [
+        "Sony",
+        "Samsung",
+        "Apple"
+      ],
+      "_id": {
+        "$oid": "6588a8c3ec0bc7a21f621789"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-24T21:55:15.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T21:55:15.608Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65905fae76b6fadd08285f39"
+  },
+  "name": "aba2",
+  "lastName": "Doe",
+  "email": "aba.doe@example.com",
+  "password": "$2a$10$IdMVWBNQpVcGcn9HLiygeeBHm.s3sfZCWzLgSEYXqpOoFGJLX3Xjm",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-12-30T18:21:34.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T22:16:47.666Z"
+  },
+  "__v": 0,
+  "address": "njhhghgh",
+  "city": "fgreer",
+  "country": "fbb",
+  "phoneNumber": "0508866909",
+  "state": "3",
+  "zipCode": "344444"
+},
+{
+  "_id": {
+    "$oid": "659168a80c34570a6355c4c3"
+  },
+  "name": "admin",
+  "lastName": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$YwT3CKdpQG9EZB1edgd1gepiopliuRON/XJfVOERUGCsCKLnR/HYO",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-12-31T13:12:08.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T13:12:08.375Z"
+  },
+  "__v": 0
+}]

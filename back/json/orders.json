@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "65913aa146d5d61b758bece3"
+  },
+  "user": {
+    "$oid": "65905fae76b6fadd08285f39"
+  },
+  "orderTotal": {
+    "itemsCount": 1,
+    "cartSubtotal": 400
+  },
+  "cartItems": [
+    {
+      "name": "Product12 Monitor Name Lorem ipsum dolor sit amet",
+      "price": 400,
+      "image": {
+        "path": "/images/games-category.png"
+      },
+      "quantity": 1,
+      "count": 20,
+      "_id": {
+        "$oid": "65913aa146d5d61b758bece4"
+      }
+    }
+  ],
+  "paymentMethod": "pp",
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-12-31T09:55:45.406Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T09:55:45.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659154ad46d5d61b758bed43"
+  },
+  "user": {
+    "$oid": "65905fae76b6fadd08285f39"
+  },
+  "orderTotal": {
+    "itemsCount": 1,
+    "cartSubtotal": 100
+  },
+  "cartItems": [
+    {
+      "name": "Product3 Dell Comp Name Lorem ipsum dolor sit amet",
+      "price": 100,
+      "image": {
+        "path": "/images/games-category.png"
+      },
+      "quantity": 1,
+      "count": 5,
+      "_id": {
+        "$oid": "659154ad46d5d61b758bed44"
+      }
+    }
+  ],
+  "paymentMethod": "pp",
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-12-31T11:46:53.527Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T11:46:53.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65916d50bf87c1b0e0104385"
+  },
+  "user": {
+    "$oid": "65905fae76b6fadd08285f39"
+  },
+  "orderTotal": {
+    "itemsCount": 1,
+    "cartSubtotal": 100
+  },
+  "cartItems": [
+    {
+      "name": "Product3 Dell Comp Name Lorem ipsum dolor sit amet",
+      "price": 100,
+      "image": {
+        "path": "/images/games-category.png"
+      },
+      "quantity": 1,
+      "count": 5,
+      "_id": {
+        "$oid": "65916d50bf87c1b0e0104386"
+      }
+    }
+  ],
+  "paymentMethod": "pp",
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-12-31T13:32:00.249Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T13:32:00.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659172e6bf87c1b0e01043a0"
+  },
+  "user": {
+    "$oid": "659168a80c34570a6355c4c3"
+  },
+  "orderTotal": {
+    "itemsCount": 1,
+    "cartSubtotal": 100
+  },
+  "cartItems": [
+    {
+      "name": "Product3 Dell Comp Name Lorem ipsum dolor sit amet",
+      "price": 100,
+      "image": {
+        "path": "/images/games-category.png"
+      },
+      "quantity": 1,
+      "count": 5,
+      "_id": {
+        "$oid": "659172e6bf87c1b0e01043a1"
+      }
+    }
+  ],
+  "paymentMethod": "pp",
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-12-31T13:55:50.924Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T13:55:50.924Z"
+  },
+  "__v": 0
+}]
